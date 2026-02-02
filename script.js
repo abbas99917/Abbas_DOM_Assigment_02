@@ -32,6 +32,6 @@ for( let i = 0; i < listColor.length; i++){
 
     // <!-- Task 6: Change Style Using Selected Element -->
 let font = document.getElementsByClassName("text");
-font[0].style.fontSize = "30px";
+font[0].style.fontSize = "20px";
 font[0].style.color = "white";
 font[0].style.backgroundColor = "green";
